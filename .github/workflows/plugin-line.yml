@@ -12,6 +12,6 @@ permissions:
 
 jobs:
   line:
-    uses: Droidtop/droidtop-platforms/.github/workflows/plugin-line-check.yml@c06bcd29e474718898a02f293d2259b17553d900
+    uses: Droidtop/droidtop-platforms/.github/workflows/plugin-line-check.yml@17a9d27c71c2cfe3aa4aceba96883642dd1735e2
     with:
-      tool-ref: c06bcd29e474718898a02f293d2259b17553d900
+      tool-ref: 17a9d27c71c2cfe3aa4aceba96883642dd1735e2
