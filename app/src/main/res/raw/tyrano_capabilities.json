@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "capabilities": [
+    { "id": "tyranoscript-browser", "engineContext": "compiled-html", "runtimeVersion": "1.0", "acceptsAnyEngineVersion": true }
+  ]
+}

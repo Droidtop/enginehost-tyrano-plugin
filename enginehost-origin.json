@@ -1,0 +1,13 @@
+{
+  "description": "Runs TyranoScript games in a confined browser, with their saves (file saves included) kept on disk",
+  "engine": "tyranoscript",
+  "engineContexts": [
+    "compiled-html"
+  ],
+  "formatVersion": 1,
+  "implementation": {
+    "id": "enginehost-tyrano",
+    "name": "Enginehost TyranoScript runtime"
+  },
+  "origin": "https://github.com/droidtop/enginehost-tyrano-plugin"
+}

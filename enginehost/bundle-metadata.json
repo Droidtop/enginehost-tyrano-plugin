@@ -1,0 +1,26 @@
+{
+  "bundleId": "dev.enginehost.tyrano.v1",
+  "engine": "tyranoscript",
+  "pluginVersion": "0.1.0",
+  "apiVersion": 1,
+  "entrypoint": "dev.enginehost.plugin.tyrano.TyranoPlugin",
+  "origin": "https://github.com/droidtop/enginehost-tyrano-plugin",
+  "dexFiles": [
+    "classes.dex"
+  ],
+  "capabilities": [
+    {
+      "id": "tyranoscript-browser",
+      "engineContext": "compiled-html",
+      "runtimeVersion": "1.0",
+      "acceptsAnyEngineVersion": true
+    }
+  ],
+  "source": {
+    "upstream": "https://github.com/droidtop/enginehost-tyrano-plugin",
+    "revision": "plugin/1"
+  },
+  "licenses": [
+    "GPL-3.0 (this runtime); games and the TyranoScript engine they carry are not redistributed"
+  ]
+}
